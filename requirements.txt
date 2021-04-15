@@ -1,0 +1,15 @@
+Webpack (imports/exports)
+    Babel
+    Sass
+    Eslint
+    mods:
+        - dev
+            dev server, sourceMaps, eslint, no minification
+        - prod
+            minification
+Git
+
+Production
+    1.0.0
+Development
+    1.0.2
